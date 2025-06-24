@@ -40,3 +40,6 @@ if __name__ == "__main__":
     a = [[1.5, 2.5], [3.5, 4.5]]
     b = [5.5, 6.5]
     print(matrix_dot_vector(a, b))  # Output: [23.0, 53.0] 
+    
+#using machine learning  to solve this
+
