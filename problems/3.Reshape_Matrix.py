@@ -3,6 +3,9 @@ import numpy as np
 def reshape_matrix(a: list[list[int|float]], new_shape: tuple[int, int]) -> list[list[int|float]]:
 	#Write your code here and return a python list after reshaping by using numpy's tolist() method
     np_matrix = np.array(a)
+    
+    if np_matrix.size != new_shape[0] * new_shape[1]:
+      return [] # Return an empty list if the total number of elements does not match the new shape
     reshaped_matrix = np_matrix.reshape(new_shape)
     
     return reshaped_matrix.tolist()
