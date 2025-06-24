@@ -1,4 +1,4 @@
-# 🧠 Deep ML Daily Problems
+# Deep ML Daily Problems
 
 Welcome to my **Daily Deep ML Problem Solving** repository!  
 Here I solve **at least 2 deep learning / machine learning problems per day**, with a focus on:
@@ -9,7 +9,7 @@ Here I solve **at least 2 deep learning / machine learning problems per day**, w
 - Practical ML workflows
 
 Each problem is well-documented and organized
-## 📂 Repository Structure
+## Repository Structure
 
 - `problems/` — Daily Python scripts with problem and solution.
 - `notebooks/` — Jupyter notebooks for explorations, visualizations, and explanations.
@@ -17,13 +17,13 @@ Each problem is well-documented and organized
 - `requirements.txt` — Required packages (NumPy, matplotlib, etc.)
 - `LICENSE` — Open source under MIT or any license of your choice.
 
-## 🗓️ Daily Log
+## Daily Log
 
 | Date       | Problem 1                              | Problem 2                              |
 |------------|----------------------------------------|----------------------------------------|
 | 2025-06-24 | Matrix-Vector Dot Product              | Linear Regression via Gradient Descent |
 
-## 📈 Progress
+## Progress
 
 - ✅ Consistency with daily commits
 - ✅ Practice ML with clarity and explanation
