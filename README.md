@@ -17,19 +17,7 @@ Each problem is well-documented and organized
 - `requirements.txt` — Required packages (NumPy, matplotlib, etc.)
 - `LICENSE` — Open source under MIT or any license of your choice.
 
-## Daily Log
-
-| Date       | Problem 1                              | Problem 2                              |
-|------------|----------------------------------------|----------------------------------------|
-| 2025-06-24 | Matrix-Vector Dot Product              | Linear Regression via Gradient Descent |
-
-## Progress
-
-- ✅ Consistency with daily commits
-- ✅ Practice ML with clarity and explanation
-- ✅ Public showcase of learning journey
-
 ---
 
-_— Commit every day, keep the graph green!_
+_              — Commit every day, keep the graph green!_
 
