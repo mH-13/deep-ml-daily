@@ -26,6 +26,13 @@ def __doc__():
     
     Returns:
     list[float]: A list containing the mean values. If mode is invalid, returns an empty list.
+    In ML, we use means to:
+
+    Normalize inputs (make them centered around 0)
+
+    Detect outliers
+
+    Preprocess features
     """
     pass 
   
