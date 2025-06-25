@@ -17,6 +17,12 @@ def scalar_multiply(matrix: list[list[int|float]], scalar: int|float) -> list[li
     scalar (int|float): The scalar value to multiply with each element of the matrix.
     Returns:
     list[list[int|float]]: A 2D list representing the resulting matrix after scalar multiplication.
+    
+    Scalar multiplication is used to:
+    Scale gradients
+    Control learning rate effects
+    Normalize weights
+    Apply regularization (like multiplying loss or weight penalty)
     """
     pass 
   
